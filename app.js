@@ -11,7 +11,7 @@ function getTranslationURL(text) {
 function errorHandler(error) {
 console.log("error occcured", error)
 alert("Something Wrong! Please try again later.")
-}
+}   
 
 function clickHandler() {
     // var inputText = textArea.value;
